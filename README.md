@@ -1,5 +1,7 @@
 # exploratory-data-analysis-of-sensor-data-with-pandas
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fkromer/exploratory-data-analysis-of-sensor-data-with-pandas.git/HEAD)
+
 For local installation on Linux run for setup:
 
 ```
