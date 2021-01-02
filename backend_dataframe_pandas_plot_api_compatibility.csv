@@ -1,0 +1,13 @@
+plot type,altair,hvplot,pandas_bokeh,plotly
+plot,x,x,x,x
+area,x,x,,
+bar,x,x,,
+barh,x,x,,
+box,x,x,,
+density,---,x,,
+hexbin,---,x,,
+hist,x,x,,
+kde,---,x,,
+line,x,x,,
+pie,---,---,,
+scatter,x,x,,
