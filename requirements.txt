@@ -1,0 +1,8 @@
+# data representation
+pandas==1.2.0
+
+# plotting backends
+git+https://github.com/altair-viz/altair_pandas
+pandas-bokeh==0.5.2
+hvplot==0.7.0
+scipy==1.6.0  # required for hvplot density and kde
